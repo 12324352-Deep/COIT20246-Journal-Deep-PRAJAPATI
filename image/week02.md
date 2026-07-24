@@ -1,4 +1,4 @@
 # week 2 Journal
-- Activity 01 I have created my github account and share with my tutor
-- ![Github](./image/image/Studentinfo.png)
+- Activity1: I have created my github account and share with my tutor
+- ![github](./image/image/Studentinfo.png)
 
